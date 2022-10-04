@@ -1,2 +1,2 @@
 # countryInfo
-Tells about INDIA . Used AJAX.
+Tells about INDIA . Used XMLhttpRequest.
